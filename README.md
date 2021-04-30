@@ -12,8 +12,7 @@
 
 
 ```
-**Request params - JSON Object**
-
+//Request params - JSON Object
 {
 	"orderid":"103",
 	"ordername":"order 100",
